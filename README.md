@@ -1,2 +1,1 @@
-# Precurse-Henrry
-Esto es un repositorio de Precurse
+este proyecto es una prueba de como crear un repositorio
